@@ -1,6 +1,6 @@
 **Pagination Helper Task**
 
-This project is combination of Maven and JUnit for unit test. After downloading or cloning the project on your local system, execute following commands in the terminal.
+This project is combination of Maven and TestNG for unit test. After downloading or cloning the project on your local system, execute following commands in the terminal.
 
 Specify project path on the terminal
 cd project path
